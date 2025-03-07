@@ -37,7 +37,7 @@ body {
 }
 
 button {
-    background: linear-gradient(90deg, #ff416c, #ff4b2b);
+    background: blue;
     color: white;
     border: none;
     padding: 12px 20px;
